@@ -2,6 +2,11 @@
 
 I made a business site for the Swim baths of Stockholm stad. 
 
+I learned:
+How to use HTML forms and simple requests
+What Javascript is and what it's used for
+How to modify the DOM using Javascript
+
 ## The problem
 
 I drew a sketch in Figma before I started the work, which made it easier to begin coding – and then I had a clear vision to strive for.
